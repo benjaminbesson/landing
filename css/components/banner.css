@@ -1,0 +1,33 @@
+.banner {
+
+background-image: linear-gradient(180deg, rgba(255,136,210,0.18) 18%, rgba(75,255,139,0.1) 80%), url(../../images/bannerla.png), url(../../images/bannerla.png);
+
+color: white; 
+
+margin-bottom: 5px;
+
+padding: 180px 0px;
+
+background-size: cover;
+
+}
+
+.banner h1 {
+	font-size: 60px; 
+}
+
+
+.banner h2 {
+	font-size: 30px; 
+	font-weight: lighter;
+	opacity: 0.9;
+}
+
+element.style {
+    width: 1147px;
+    height: 187.625;
+}
+
+div {
+    display: block;
+}
